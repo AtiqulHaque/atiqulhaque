@@ -25,12 +25,11 @@
 
 ### Technology Stack
 
-
 <img align="left" alt="python" width="100px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="php" width="80px" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
 <img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="Docker" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
 
 <img align="left" alt="MongoDB" width="130px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
@@ -47,10 +46,11 @@
 
 <br />
 <br />
+<br />
 
 --- 
 ### :zap: Recent Activity
-  
+  <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atiqulhaque)](https://github.com/atiqulhaque/github-readme-stats)
 
 <br />
