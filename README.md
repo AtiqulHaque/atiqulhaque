@@ -39,6 +39,7 @@
 
 <img align="left" alt="GO" width="80px" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="REACTJS" width="100px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<br />
 <img align="left" alt="LARAVEL" width="100px" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
 
 
