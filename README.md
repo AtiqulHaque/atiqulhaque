@@ -43,3 +43,13 @@
 <img align="left" alt="go" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
 <br />
 <br />
+
+--- 
+### :zap: Recent Activity
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br />
+<br />
