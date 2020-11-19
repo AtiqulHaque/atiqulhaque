@@ -1,4 +1,4 @@
-### Hi there 👋 i am Md.Atiqul Haque
+### Hi there 👋
 
 ### I'm a Backend Engineer | Polyglot Developer | DevOps Hobbyist | Equal love for PHP, NodeJS, Python, Golang!!!
 ----
@@ -30,12 +30,13 @@
 <img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="MongoDB" width="130px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="JavaScript" width="130px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="left" alt="nodejs" width="100px" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br />
-
-
-<img align="left" alt="LARAVEL" width="120px" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+<img align="left" alt="nodejs" width="100px" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="GO" width="80px" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+<img align="left" alt="REACTJS" width="100px" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<br />
+<img align="left" alt="LARAVEL" width="120px" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+
 
 
 
@@ -45,9 +46,8 @@
 
 --- 
 ### :zap: Recent Activity
-  <br />
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atiqulhaque)](https://github.com/AtiqulHaque/github-readme-stats)
+
+[(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
