@@ -45,7 +45,7 @@
 <td>
         <img align="left" alt="python" width="100px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />         </td>
   <td>
-    <img align="left" alt="GO" width="80px" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+    <img align="left" alt="GO" width="70px" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   </td>
 
   <td>
