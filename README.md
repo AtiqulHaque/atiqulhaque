@@ -81,7 +81,7 @@
 </td>
 
 <td>
-  <img align="left" alt="Elasticsearch" width="130px" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white&style=for-the-badge" />
+  <img align="left" alt="Elasticsearch" width="150px" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white&style=for-the-badge" />
 </td>
 
 
