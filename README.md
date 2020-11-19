@@ -46,6 +46,8 @@
 --- 
 ### :zap: Recent Activity
   <br />
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atiqulhaque)](https://github.com/AtiqulHaque/github-readme-stats)
+
 <br />
 <br />
