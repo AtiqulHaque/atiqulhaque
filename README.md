@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i am Md.Atiqul Haque
 
 ### I'm a Backend Engineer | Polyglot Developer | DevOps Hobbyist | Equal love for PHP, NodeJS, Python, Golang!!!
 ----
@@ -47,7 +47,8 @@
 --- 
 ### :zap: Recent Activity
 
-[(https://github-readme-stats.vercel.app/api?username=atiqulhaque)](https://github.com/AtiqulHaque/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atiqulhaque)](https://github.com/AtiqulHaque/github-readme-stats)
 
 <br />
 <br />
