@@ -79,6 +79,12 @@
 <td>
   <img align="left" alt="SOCKET.IO" width="120px" src="https://img.shields.io/badge/socket.io-101010?logo=socket.io&logoColor=white&style=for-the-badge" />
 </td>
+
+<td>
+  <img align="left" alt="Elasticsearch" width="120px" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white&style=for-the-badge" />
+</td>
+
+
 </tr>
   </table>
 
