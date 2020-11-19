@@ -64,20 +64,20 @@
 
 <tr>
 <td>
-  <img align="left" alt="REDUX" width="120px" src=" https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img align="left" alt="DOCKER" width="120px" src=" https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </td>
   
  <td>
-  <img align="left" alt="REDUX" width="120px" src="https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+  <img align="left" alt="rabbitmq" width="120px" src="https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
 </td>
 
 
 <td>
-  <img align="left" alt="REDUX" width="120px" src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img align="left" alt="REDIS" width="120px" src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 </td>
 
 <td>
-  <img align="left" alt="REDUX" width="120px" src="https://img.shields.io/badge/socket.io-101010?logo=socket.io&logoColor=white&style=for-the-badge" />
+  <img align="left" alt="SOCKET.IO" width="120px" src="https://img.shields.io/badge/socket.io-101010?logo=socket.io&logoColor=white&style=for-the-badge" />
 </td>
 </tr>
   </table>
