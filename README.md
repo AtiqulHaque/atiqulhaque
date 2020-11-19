@@ -64,7 +64,7 @@
 
 <tr>
 <td>
-  <img align="left" alt="DOCKER" width="120px" src=" https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img align="left" alt="DOCKER" width="120px" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </td>
   
  <td>
