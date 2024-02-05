@@ -15,7 +15,7 @@
 
 ### Connetc with me
 
-[<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/md-atiqul-haque-89605338/)
+[<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/toatiqul)
 [<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mdhaques/)
 [<img align="left" alt="Java" width="150px" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/1726248/md-atiqul-haque)
 [<img align="left" alt="Medium" width="90px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mdatiqulhaque/about)
