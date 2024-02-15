@@ -54,6 +54,12 @@
   <td>
     <img align="left" alt="Docker" width="120px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
   </td> 
+
+  <td>
+    <img align="left" alt="Docker" width="120px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+  </td> 
+
+
 </tr>
 
 
