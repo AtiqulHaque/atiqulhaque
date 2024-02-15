@@ -57,9 +57,7 @@
   <td>
     <img align="left" alt="LARAVEL" width="120px" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
   </td>
-  <td>
-    <img align="left" alt="REDUX" width="110px" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  </td>
+ 
 </tr>
 
 
@@ -77,9 +75,6 @@
   <img align="left" alt="REDIS" width="105px" src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
 </td>
 
-<td>
-  <img align="left" alt="SOCKET.IO" width="130px" src="https://img.shields.io/badge/socket.io-101010?logo=socket.io&logoColor=white&style=for-the-badge" />
-</td>
 
 <td>
   <img align="left" alt="Elasticsearch" width="160px" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white&style=for-the-badge" />
