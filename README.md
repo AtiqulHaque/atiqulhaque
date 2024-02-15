@@ -59,7 +59,7 @@
 
 <tr>
      <td><img align="left" alt="Mysql" width="100px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></td>
-     <td><img align="left" alt="MongoDB" width="130px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />   <td>
+     <td><img align="left" alt="MongoDB" width="130px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />   </td>
      <td><img align="left" alt="REDIS" width="105px" src="https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" /></td>
      <td> <img align="left" alt="Elasticsearch" width="160px" src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch&logoColor=white&style=for-the-badge" /></td>
 </tr>
