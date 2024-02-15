@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Md.Atiqul Haque
 
-### I'm a Backend Engineer | Polyglot Developer | DevOps Hobbyist | Equal love for PHP, NodeJS, Python, Golang!!!
+### I'm a Backend Engineer | Polyglot Developer | DevOps Hobbyist | Equal love for NodeJS, PHP, Golang!!!
 ----
 
 - 🔭 I’m currently working on ...
