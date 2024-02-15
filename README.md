@@ -40,13 +40,24 @@
  <td>
     <img align="left" alt="JavaScript" width="130px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   </td>
-  
+   <td>
+    <img align="left" alt="LARAVEL" width="120px" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+  </td>
 </tr>
 
 <tr>
 
   <td>
-    <img align="left" alt="LARAVEL" width="120px" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+    <img align="left" alt="Kubernetes" width="120px" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
+  </td>
+
+  <td>
+    <img align="left" alt="Docker" width="120px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
+  </td>
+
+
+  <td>
+    <img align="left" alt="Docker" width="120px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
   </td>
  
 </tr>
