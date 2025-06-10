@@ -12,10 +12,4 @@ Above all, I’m a proud father.
 
 And always, a proud Bangladeshi 🇧🇩.
 
-### Connetc with me
-
-[<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/toatiqul)
-
-<br/>
-<br/>
 
