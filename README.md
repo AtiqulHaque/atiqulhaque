@@ -10,7 +10,6 @@ Right now, I’m based in Bangladesh, working as a Software Architect and Team L
 
 Above all, I’m a proud father.
 
-
 And always, a proud Bangladeshi 🇧🇩.
 
 
